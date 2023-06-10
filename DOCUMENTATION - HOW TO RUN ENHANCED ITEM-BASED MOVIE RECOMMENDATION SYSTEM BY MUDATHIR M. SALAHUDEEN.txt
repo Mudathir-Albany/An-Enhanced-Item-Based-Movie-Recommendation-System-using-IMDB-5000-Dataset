@@ -1,0 +1,21 @@
+DOCUMENTATION
+
+To set up and run the Streamlit application, follow the steps below:
+
+i. Create a new environment in Anaconda Navigator and name it "nasenv".
+ii. Activate the environment by opening Anaconda Prompt and typing the command conda activate newEnv.
+iii. The prompt should now display "newEnv" at the beginning.
+iv. Install the Streamlit library in the new environment by running the command pip install streamlit.
+v. Install the additional libraries used in the code by executing the command pip install [put_library_name_here] for each library.
+vi. The required libraries are "bs4" and "requests".
+vii. Once all the libraries are installed, navigate to the directory where your Streamlit code is located using the cd command in the prompt.
+For example, if the code is in "C:\Users\DELL\Documents\FINAL_PROJECT_APPLICATION\streamlit_App", type “cd C:\Users\DELL\Documents\ FINAL_PROJECT_APPLICATION\streamlit_App” to change the directory.
+viii. Finally, run the Streamlit app in the folder using the command “streamlit run myApp.py”, where "myApp" is the name of the code file in the folder. 
+The app will automatically launch in your web browser.
+
+
+TO ACCESS THE USER INTERFACE DESIGNED FOR THE APP, FOLLOW THESE ADDITIONAL INSTRUCTIONS:
+
+i. Locate the "Filmforecast" folder that was provided to you.
+ii. Run the "index.html" file found in the folder.
+iii. The user interface will open, providing a more user-friendly experience for interacting with the app.
